@@ -2,4 +2,4 @@
 Guide to all hero interactions
 
 
-[Wiki](./wiki)
+[Wiki](../../wiki)
